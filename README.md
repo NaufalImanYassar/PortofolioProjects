@@ -1,2 +1,2 @@
 # Portofolio Project
-So this is my portfolio. I have become a data enthusiast since I am interested in big data and modeling business data so that I can provide insight to the company
+So this is my portfolio. So in this project I did a cluster, by clustering the customer segmentation mall, where I did several clusters such as, cluster age & income, cluster age & Spending score, cluster income and Spending Score,
